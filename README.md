@@ -1,6 +1,6 @@
 # Smartphone Battery Health Digital Twin
 
-## Project Overview
+## Digital Twin based Battery Health Prediction System using Machine Learning and Smartphone Specifications Dataset.
 
 This project creates a Digital Twin of smartphone battery behavior using smartphone specification data and machine learning.
 
