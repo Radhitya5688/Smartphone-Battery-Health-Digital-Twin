@@ -1,26 +1,20 @@
 # Smartphone Battery Health Digital Twin
 
-## Digital Twin based Battery Health Prediction System using Machine Learning and Smartphone Specifications Dataset.
+## Overview
 
 This project creates a Digital Twin of smartphone battery behavior using smartphone specification data and machine learning.
 
-The system estimates battery condition based on:
+The system estimates:
 
-- Battery Capacity
-- Device Age
+- Battery Health
 - Charge Cycles
-- Temperature
+- Device Temperature
 - Voltage
-
-The model predicts battery health status:
-
-- Good
-- Moderate
-- Poor
+- Health Status
 
 ---
 
-## Technologies Used
+## Technologies
 
 - Python
 - Pandas
@@ -32,7 +26,7 @@ The model predicts battery health status:
 
 ---
 
-## Project Workflow
+## Workflow
 
 Dataset
 ↓
@@ -40,32 +34,36 @@ Data Cleaning
 ↓
 Feature Engineering
 ↓
-Digital Twin Creation
+Digital Twin Generation
 ↓
 Battery Health Estimation
 ↓
-Health Classification
-↓
-Machine Learning Prediction
+Machine Learning Classification
 
 ---
 
-## Features
+## Visualizations
 
-- Smartphone dataset preprocessing
-- Battery health estimation
-- Digital Twin simulation
-- Data visualization
-- Machine learning prediction
+### Battery Health Distribution
+
+(Add image later)
+
+### Health Status Distribution
+
+(Add image later)
+
+### Correlation Heatmap
+
+(Add image later)
 
 ---
 
-## Future Improvements
+## Future Scope
 
-- Real-time battery monitoring
-- Streamlit web application
-- Deep learning implementation
-- Mobile application integration
+- Streamlit Web Application
+- Real-time Battery Monitoring
+- Deep Learning Integration
+- Mobile App Support
 
 ---
 
